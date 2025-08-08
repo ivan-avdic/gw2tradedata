@@ -1,0 +1,7432 @@
+[
+  {
+    "item_id": 101451,
+    "item_name": "Necrotic Essence Axe Skin",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 281146,
+    "top_sell_price": 419966,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 281146,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 281145,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 281019,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 281016,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 281011,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 281008,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 260101,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 222226,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 202122,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 200283,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 180314,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 150000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100000,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 50000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 100,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 78,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 419966,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 419968,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 419969,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 419971,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 419976,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 419977,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 419978,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 419979,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 419983,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 419985,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 419991,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 419998,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 429692,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 429793,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 492222,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 495297,
+        "quantity": 4
+      },
+      {
+        "listings": 1,
+        "unit_price": 495298,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 495299,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 498888,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 499997,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 500008,
+        "quantity": 4
+      },
+      {
+        "listings": 2,
+        "unit_price": 500540,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 573334,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 599999,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 600203,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 600204,
+        "quantity": 8
+      },
+      {
+        "listings": 1,
+        "unit_price": 600544,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 700204,
+        "quantity": 8
+      },
+      {
+        "listings": 1,
+        "unit_price": 800293,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1334704,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 34686,
+    "item_name": "Carrion Glyphic Longblade of the Geomancer",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 201,
+    "top_sell_price": 302,
+    "top_buy_quantity": 19,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 201,
+        "quantity": 19
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 302,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 398,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 399,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 401,
+        "quantity": 2
+      },
+      {
+        "listings": 2,
+        "unit_price": 447,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 448,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 450,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 499,
+        "quantity": 28
+      },
+      {
+        "listings": 1,
+        "unit_price": 501,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 588,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 590,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 594,
+        "quantity": 4
+      },
+      {
+        "listings": 2,
+        "unit_price": 595,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 596,
+        "quantity": 4
+      },
+      {
+        "listings": 2,
+        "unit_price": 597,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 598,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 599,
+        "quantity": 59
+      },
+      {
+        "listings": 2,
+        "unit_price": 600,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 601,
+        "quantity": 1
+      },
+      {
+        "listings": 3,
+        "unit_price": 759,
+        "quantity": 5
+      },
+      {
+        "listings": 3,
+        "unit_price": 978,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 984,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1001,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1901,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1910,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 1919,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 1961,
+        "quantity": 3
+      },
+      {
+        "listings": 2,
+        "unit_price": 1990,
+        "quantity": 3
+      },
+      {
+        "listings": 2,
+        "unit_price": 1991,
+        "quantity": 2
+      },
+      {
+        "listings": 2,
+        "unit_price": 1992,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 1993,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 1994,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1995,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 1996,
+        "quantity": 2
+      },
+      {
+        "listings": 2,
+        "unit_price": 2001,
+        "quantity": 2
+      },
+      {
+        "listings": 6,
+        "unit_price": 2102,
+        "quantity": 7
+      },
+      {
+        "listings": 1,
+        "unit_price": 2185,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 2186,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 2189,
+        "quantity": 2
+      },
+      {
+        "listings": 2,
+        "unit_price": 2192,
+        "quantity": 8
+      },
+      {
+        "listings": 1,
+        "unit_price": 2193,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 2194,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2195,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 2485,
+        "quantity": 4
+      },
+      {
+        "listings": 2,
+        "unit_price": 2486,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 2489,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 2494,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 2499,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2500,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2999,
+        "quantity": 6
+      },
+      {
+        "listings": 2,
+        "unit_price": 3000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 4883,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 4884,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 4885,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 4886,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 4887,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 4889,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 4894,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 4895,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 4896,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 4897,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 4898,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 4899,
+        "quantity": 1
+      },
+      {
+        "listings": 3,
+        "unit_price": 5000,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 5029,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 5088,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 5178,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 8000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 8501,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10001,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10172,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10203,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10212,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 30000,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 70000,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 70003,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 70201,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 92640,
+    "item_name": "Draconic Dagger Skin",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 143981,
+    "top_sell_price": 222858,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 143981,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 143860,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 143858,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 143854,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 132599,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 130765,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 130509,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 130504,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 130503,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 130502,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 110322,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 96280,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 94983,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 89200,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 72517,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 71124,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 30002,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 30001,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10102,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 222858,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 222859,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 222860,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 252860,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 252861,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 252962,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 254062,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 306940,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 306948,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 306953,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 306962,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 306964,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 306966,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 306969,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 439497,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 439997,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 449896,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 449897,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 450000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 459290,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 469291,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 469293,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 479295,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 479398,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 480000,
+        "quantity": 8
+      },
+      {
+        "listings": 1,
+        "unit_price": 489999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 490083,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 490084,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 490090,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 500000,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 509796,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 549977,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 679898,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 679999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 699966,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 699968,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 800000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 889999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 899000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1000000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1139999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1159998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1199999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1249999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1500000,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 103745,
+    "item_name": "Mini Brown Cuckoo Hatchling",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 190518,
+    "top_sell_price": 295499,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 2,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 190518,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 190517,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 190500,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 190389,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 190245,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 180002,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 180000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 112422,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 111704,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 111703,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 111564,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 102000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 70003,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 20000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 800,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 2,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 295499,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 295500,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 296599,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 296600,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 297699,
+        "quantity": 4
+      },
+      {
+        "listings": 1,
+        "unit_price": 297700,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 298799,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 298800,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299900,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 333300,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 333333,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 350600,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 350700,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 350799,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 350800,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 351100,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 352200,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 355500,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 356599,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 356600,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 357699,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 357700,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 358799,
+        "quantity": 2
+      },
+      {
+        "listings": 2,
+        "unit_price": 358800,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 359899,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 359900,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 359993,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 359994,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 359995,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 359997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 449999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 504400,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 514400,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 515500,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 518000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 519000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 598800,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 599894,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 599897,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 599898,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 599899,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 599900,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 650000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 699898,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 699900,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 700074,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 754400,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 754454,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 754455,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 755500,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 103718,
+    "item_name": "Foefire Focus Skin",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 465049,
+    "top_sell_price": 748800,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 465049,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 465048,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 465043,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 465036,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 465018,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 465009,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 465004,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 373246,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 373245,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 372401,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 372112,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 200000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 120009,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 120008,
+        "quantity": 2
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 748800,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 749900,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 749993,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 749994,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 749995,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 749998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 749999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 868686,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 888888,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 898888,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1000000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 1300001,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 81810,
+    "item_name": "Polyluminescent Undulating Infusion (Black)",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 800018,
+    "top_sell_price": 1300000,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 800018,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 800008,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 701324,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 701323,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 701321,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 701320,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 672196,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 360447,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 350318,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 120001,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 50301,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10288,
+        "quantity": 4
+      },
+      {
+        "listings": 1,
+        "unit_price": 10287,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10000,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 2,
+        "quantity": 2
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 1300000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1519999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1530000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1540000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1550000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1560000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2000000,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 80942,
+    "item_name": "Beastslayer Mace Skin",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 310102,
+    "top_sell_price": 509992,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 310102,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 310101,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 310100,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 310098,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 161061,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 160929,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 140079,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 139976,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 109804,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 83448,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 83005,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 61800,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 61200,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 61138,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 53067,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10008,
+        "quantity": 2
+      },
+      {
+        "listings": 2,
+        "unit_price": 10000,
+        "quantity": 2
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 509992,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 509993,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 510000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 559896,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 559897,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 559898,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 680000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 699904,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 699905,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 702998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 702999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 710000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1139595,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1205821,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1500000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1500273,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 1753101,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 2220013,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 2796,
+    "item_name": "Carrion Cabalist Shoulders of the Lich",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 140,
+    "top_sell_price": 199,
+    "top_buy_quantity": 18,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 140,
+        "quantity": 18
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 199,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 200,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 214,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 215,
+        "quantity": 1
+      },
+      {
+        "listings": 3,
+        "unit_price": 218,
+        "quantity": 3
+      },
+      {
+        "listings": 7,
+        "unit_price": 219,
+        "quantity": 7
+      },
+      {
+        "listings": 1,
+        "unit_price": 220,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 222,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 239,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 240,
+        "quantity": 2
+      },
+      {
+        "listings": 5,
+        "unit_price": 340,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 390,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 731,
+        "quantity": 1
+      },
+      {
+        "listings": 4,
+        "unit_price": 732,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 736,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 738,
+        "quantity": 1
+      },
+      {
+        "listings": 3,
+        "unit_price": 739,
+        "quantity": 3
+      },
+      {
+        "listings": 3,
+        "unit_price": 740,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "item_id": 75278,
+    "item_name": "Minstrel's Exalted Coat",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 114432,
+    "top_sell_price": 164020,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 114432,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 110518,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100468,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100445,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100443,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100426,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100416,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 90158,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 80097,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 76060,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 50109,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 45015,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 308,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 307,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 164020,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164021,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 164022,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 164023,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164024,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164025,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164026,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 164027,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164528,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164530,
+        "quantity": 4
+      },
+      {
+        "listings": 1,
+        "unit_price": 164531,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 164533,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 164535,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164537,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164540,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164541,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 164545,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 164547,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 164548,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164551,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 164553,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164556,
+        "quantity": 1
+      },
+      {
+        "listings": 3,
+        "unit_price": 164557,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 164559,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164563,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164668,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164671,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 164674,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 164786,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164895,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 166769,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 166870,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 166875,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 166881,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 166883,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 166893,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 166959,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 169993,
+        "quantity": 2
+      },
+      {
+        "listings": 2,
+        "unit_price": 170000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 174977,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 174985,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 179351,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 179361,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 179407,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 179410,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 179413,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 179414,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 179749,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 179751,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 179754,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 179761,
+        "quantity": 8
+      },
+      {
+        "listings": 1,
+        "unit_price": 179768,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 179890,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 189989,
+        "quantity": 4
+      },
+      {
+        "listings": 1,
+        "unit_price": 195000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 259326,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 399768,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 41471,
+    "item_name": "Sentinel's Destroyer Pike",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 204424,
+    "top_sell_price": 300000,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 204424,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 204423,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 201119,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 200000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 120234,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 120023,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100006,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 50429,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 50426,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 20101,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 20100,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 20099,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 19412,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 18900,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 397,
+        "quantity": 4
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 300000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 389997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 449995,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 497698,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 497703,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 497705,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 497706,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 988885,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 988889,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 95575,
+    "item_name": "White Tiger Mace Skin",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 210201,
+    "top_sell_price": 309768,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 210201,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 210200,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 210099,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 210097,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 165001,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 160497,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 150009,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 147612,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 147491,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 146969,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 131406,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 121247,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100005,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 70001,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 50000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 20007,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 1900,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 309768,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309769,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309770,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309771,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309774,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309776,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309778,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309779,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309780,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309781,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309782,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309784,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309786,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309788,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309790,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309791,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309792,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309793,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309794,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309795,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309796,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309797,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309798,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309799,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309800,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 319800,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 319900,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 329791,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 329792,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 329793,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 329794,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 331684,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 349798,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 349898,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 399998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 399999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 419759,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 419760,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 419762,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 419763,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 419765,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 419870,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 419871,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 450303,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 459983,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 459990,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 469996,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 499999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 500000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 539999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 554009,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 554010,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 564122,
+        "quantity": 10
+      },
+      {
+        "listings": 1,
+        "unit_price": 699996,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1370428,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 103044,
+    "item_name": "Titanplate Heavy Gauntlets",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 135136,
+    "top_sell_price": 199975,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 135136,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 135135,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 135134,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 135130,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 135115,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 125014,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 125013,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 125011,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 125010,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 120285,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 120284,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 120275,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 120065,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 118000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 110025,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 28999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 9921,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 199975,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 199976,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 199977,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 199978,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 199980,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 199981,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 199982,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 199983,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 199985,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 199986,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 199987,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 199988,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 199992,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 199993,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 199994,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 199995,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 199996,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 200000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 208998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 220000,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 239992,
+        "quantity": 4
+      },
+      {
+        "listings": 1,
+        "unit_price": 239993,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 259999,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 299298,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299299,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299538,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299973,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299996,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 309997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 315833,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 315861,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 359467,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 369471,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 369779,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 370096,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 449507,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 990000,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 103721,
+    "item_name": "Foefire Longbow Skin",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 673433,
+    "top_sell_price": 999999,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 673433,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 673333,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 650104,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 615457,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 615456,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 383850,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 383849,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 383847,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 375206,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 209999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 120013,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 120012,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 199,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 999999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1000000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1200000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1506757,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1506758,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1506759,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1896759,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1896762,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1896765,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 1896768,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 1896769,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1896877,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1899999,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 1900000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2493429,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2493430,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2503436,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2503438,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 71480,
+    "item_name": "Recipe: Tizlak's Razor",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 40055,
+    "top_sell_price": 60777,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 40055,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 40052,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 40050,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 30022,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 20130,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 20118,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10288,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10287,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10286,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10023,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10022,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10015,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 7902,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 3262,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 417,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 416,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 212,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 60777,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 93351,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 93355,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 93397,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 93398,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 93797,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 93798,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 93999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 98000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 106000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 148096,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 160000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299988,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 78067,
+    "item_name": "Kaiser Snake Short Bow Skin",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 1030299,
+    "top_sell_price": 1589973,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 1030299,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1009994,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1000014,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 200200,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 200000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 51010,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 1500,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 500,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 55,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 9,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 3,
+        "quantity": 1
+      },
+      {
+        "listings": 5,
+        "unit_price": 2,
+        "quantity": 5
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 1589973,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1589974,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1589975,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1589976,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1599978,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1599981,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1599982,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1599983,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1599986,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 1599987,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1599988,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1599993,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1599995,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1600000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1636600,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1637700,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1638800,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1639899,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 1639900,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 1640018,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 1640119,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 1640120,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1650121,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1749900,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1750000,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 1790000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 1850000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1909799,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1949800,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1959994,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1959996,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1959997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1969997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1969998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1989999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2029999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2040098,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2040099,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2089999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2399887,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2399888,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2499995,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2749997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2749999,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 3299999,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 3700000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 3999999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 4180000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 5505047,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 102056,
+    "item_name": "Chromatic Assassin Shield Skin",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 200218,
+    "top_sell_price": 290218,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 200218,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 200214,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 200209,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 200204,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 200201,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 200073,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 200061,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 200000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 162950,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 162949,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 162948,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 161958,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 151269,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 150009,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 150000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 130003,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 130001,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 50000,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 290218,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 300218,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 310210,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 310211,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 310213,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 329990,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 329991,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 329992,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 379992,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 379994,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 379999,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 380000,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 399905,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 399906,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 399907,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 399908,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 400009,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 696969,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 748308,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 758308,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 758309,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 758310,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 758311,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 758312,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 758313,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 758314,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 758315,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 758316,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 787999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 788000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 788003,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 790000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 810000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 900105,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 1001104,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 102910,
+    "item_name": "Titanplate Medium Boots",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 145007,
+    "top_sell_price": 209472,
+    "top_buy_quantity": 7,
+    "top_sell_quantity": 2,
+    "raw_buys": [
+      {
+        "listings": 2,
+        "unit_price": 145007,
+        "quantity": 7
+      },
+      {
+        "listings": 1,
+        "unit_price": 145005,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 133619,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 133601,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 130190,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 130186,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 121398,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 113911,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 103908,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 103907,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 29000,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 209472,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 209473,
+        "quantity": 6
+      },
+      {
+        "listings": 1,
+        "unit_price": 209475,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 209476,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 209477,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 209478,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 209479,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 209480,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 209481,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 209482,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 209483,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 209484,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 209485,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 209486,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 209487,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 209489,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 209491,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 209493,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 209496,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 209497,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 209499,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 209991,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 209996,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 209997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 210000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 218992,
+        "quantity": 4
+      },
+      {
+        "listings": 1,
+        "unit_price": 218995,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 220000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 230000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 239998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299987,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 299994,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 319100,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 319993,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 467222,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 583907,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 92656,
+    "item_name": "Draconic Greatsword Skin",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 170817,
+    "top_sell_price": 259996,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 170817,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 170624,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 170581,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 170333,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 150019,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 90315,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 90314,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 86591,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 86052,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 86014,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 6972,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 6971,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 6969,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 4358,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1084,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 259996,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 259997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 259998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 259999,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 279994,
+        "quantity": 2
+      },
+      {
+        "listings": 2,
+        "unit_price": 279995,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 279997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 279998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 279999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 288997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 288998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 289000,
+        "quantity": 2
+      },
+      {
+        "listings": 3,
+        "unit_price": 299788,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 299793,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299796,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299797,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299885,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299890,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299893,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299894,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299900,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 299992,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 300000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 314392,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 314395,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 324397,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 325199,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 326491,
+        "quantity": 4
+      },
+      {
+        "listings": 1,
+        "unit_price": 326493,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 326497,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 327696,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 329897,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 330506,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 330507,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 330510,
+        "quantity": 4
+      },
+      {
+        "listings": 1,
+        "unit_price": 349995,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 349999,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 399900,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 399993,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 399994,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 409968,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 409969,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 419986,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 419995,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 428994,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 435199,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 506967,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 550000,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 599999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 699998,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 699999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 777777,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 779098,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 903399,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 1000000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1110205,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2170821,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2200821,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 92648,
+    "item_name": "Draconic Pistol Skin",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 150023,
+    "top_sell_price": 230373,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 150023,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 150021,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 150000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 111537,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 111322,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 111321,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 110775,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 100766,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 77352,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 77351,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 75616,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 56030,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 50006,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 20101,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10102,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 230373,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 230374,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 230375,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 250368,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 250370,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 250371,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 269999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 270371,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 270471,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 279996,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 289995,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 289996,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 339998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 399999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 400793,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 400794,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 400795,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 400796,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 400797,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 400798,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 490798,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 490799,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 490800,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 490897,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 490898,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 490995,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 490997,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 490999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 501050,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 501052,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 501054,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 501055,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 501056,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 511056,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 531056,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 751056,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 800000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 899000,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 1134999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1190000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1450000,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 67632,
+    "item_name": "Charged Ambrite Orichalcum Amulet",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 61040,
+    "top_sell_price": 99999,
+    "top_buy_quantity": 2,
+    "top_sell_quantity": 2,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 61040,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 61039,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 61035,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 50205,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 41748,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 32518,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 32042,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 32018,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 27087,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 24005,
+        "quantity": 2
+      },
+      {
+        "listings": 3,
+        "unit_price": 1003,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 1000,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 99999,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 114995,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 114996,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 114997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 114998,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 114999,
+        "quantity": 10
+      },
+      {
+        "listings": 2,
+        "unit_price": 115000,
+        "quantity": 9
+      },
+      {
+        "listings": 1,
+        "unit_price": 115007,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 120059,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 123451,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 123452,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 123454,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 123456,
+        "quantity": 27
+      },
+      {
+        "listings": 1,
+        "unit_price": 130000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 139898,
+        "quantity": 13
+      },
+      {
+        "listings": 1,
+        "unit_price": 144696,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 150000,
+        "quantity": 2
+      },
+      {
+        "listings": 2,
+        "unit_price": 194450,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 194523,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 200000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 250000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 500000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 750000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 1000000,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "item_id": 99647,
+    "item_name": "Paladin's Decree Dagger Skin",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 209329,
+    "top_sell_price": 299068,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 209329,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 207086,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 126713,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 126610,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 126604,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 115003,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 115002,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 115000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 113335,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 112213,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100104,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100008,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 50001,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 50000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 299068,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299069,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299070,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299071,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 299080,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299081,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299089,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299090,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299091,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299100,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 299101,
+        "quantity": 1
+      },
+      {
+        "listings": 3,
+        "unit_price": 300000,
+        "quantity": 3
+      },
+      {
+        "listings": 3,
+        "unit_price": 339894,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 379892,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 379894,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 379994,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 379996,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 379997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 379998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 389995,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 400000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 517716,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 517717,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 517719,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 517745,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 517749,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 517750,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 528231,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 528232,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 528233,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 528234,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 588231,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 588232,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 588233,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 588234,
+        "quantity": 3
+      },
+      {
+        "listings": 2,
+        "unit_price": 599998,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 1009998,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 100479,
+    "item_name": "Relic of the Privateer",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 93826,
+    "top_sell_price": 139984,
+    "top_buy_quantity": 10,
+    "top_sell_quantity": 2,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 93826,
+        "quantity": 10
+      },
+      {
+        "listings": 1,
+        "unit_price": 93825,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 93824,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 81073,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 60558,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 50352,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 50251,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 139984,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 139985,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 139989,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 139995,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 140000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 140001,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 140004,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 140005,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 140006,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 140013,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 140015,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 140039,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 140042,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 140044,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 140048,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 140049,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 140054,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 140056,
+        "quantity": 4
+      },
+      {
+        "listings": 1,
+        "unit_price": 140060,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 144963,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 144969,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 144979,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 144982,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 144984,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 144988,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 144990,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 144993,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 144995,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 144998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 144999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 148468,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 148490,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 148491,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 148498,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 148990,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 148994,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 148996,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 148999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 149000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 157372,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 157758,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 157762,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 157764,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 157767,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 157778,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 157894,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 157997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 159878,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 159881,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 159882,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 159889,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 159890,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 159891,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 159990,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 159997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 159999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 160000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 164993,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 164997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 164998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 165000,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 169939,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 169952,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 169962,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 169963,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 169967,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 169968,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 169987,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 169990,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 170000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 179589,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 179598,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 179999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 180000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 217994,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 220091,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 220100,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 220105,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 260084,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 269085,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 269093,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 99181,
+    "item_name": "Broadside of the Lion's Champion",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 1800031,
+    "top_sell_price": 2790000,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 1800031,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1800030,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1800024,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1030705,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1010335,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 778725,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 400229,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 400129,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 400029,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10342,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10243,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10144,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 10002,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 9891,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 2790000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2790008,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 3000003,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 3419991,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 3449999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 3500000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 3789997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 3789999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 4069999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 5555555,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 6990000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 12000000,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 102034,
+    "item_name": "Chromatic Assassin Torch Skin",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 161163,
+    "top_sell_price": 241163,
+    "top_buy_quantity": 2,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 2,
+        "unit_price": 161163,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 161162,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 157758,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 150050,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 150047,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 150013,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 150010,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 150000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 120001,
+        "quantity": 1
+      },
+      {
+        "listings": 3,
+        "unit_price": 120000,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 50001,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 50000,
+        "quantity": 2
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 241163,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 251162,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 251163,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 271147,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 271151,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 271161,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 281614,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 281615,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 282017,
+        "quantity": 1
+      },
+      {
+        "listings": 3,
+        "unit_price": 282033,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 282034,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 282133,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 282233,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 282236,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 289888,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 289889,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 289890,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 289998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 300000,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 300016,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 300017,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 379898,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 379899,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 389899,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 399899,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 399999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 400000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 401074,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 401142,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 562595,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 562598,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 572599,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 582600,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 599999,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 666969,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 690000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 699909,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 753026,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "item_id": 100238,
+    "item_name": "Relic of the Lich",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 105075,
+    "top_sell_price": 169989,
+    "top_buy_quantity": 3,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 2,
+        "unit_price": 105075,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 105073,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 105072,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100048,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100041,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100022,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100020,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 92653,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 92375,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 92365,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 60004,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 20000,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 10000,
+        "quantity": 2
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 169989,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 169990,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 169991,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 172496,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 172499,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 174233,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 174238,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 174241,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 174242,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 174993,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 174994,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 174995,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 175000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 180000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 184871,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 184879,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 184900,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 185000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 189996,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 189998,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 190000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 199835,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 199995,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 200001,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 386654,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 386666,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 81641,
+    "item_name": "Polyluminescent Undulating Infusion (Teal)",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 696971,
+    "top_sell_price": 1130000,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 696971,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 696970,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 691100,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 681940,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 497784,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 497783,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 100012,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 20071,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 20070,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 20069,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 10000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2,
+        "quantity": 1
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 1130000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1139000,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 1139075,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 1139076,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1139078,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1139080,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1139280,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1139581,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1139996,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1139997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1139998,
+        "quantity": 2
+      },
+      {
+        "listings": 2,
+        "unit_price": 1140000,
+        "quantity": 2
+      },
+      {
+        "listings": 2,
+        "unit_price": 1160000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 1490000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1649999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2207810,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 2052,
+    "item_name": "Rampager's Reinforced Scale Legs of the Grove",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 180,
+    "top_sell_price": 279,
+    "top_buy_quantity": 15,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 180,
+        "quantity": 15
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 279,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 280,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 281,
+        "quantity": 2
+      },
+      {
+        "listings": 3,
+        "unit_price": 369,
+        "quantity": 3
+      },
+      {
+        "listings": 2,
+        "unit_price": 370,
+        "quantity": 2
+      },
+      {
+        "listings": 3,
+        "unit_price": 371,
+        "quantity": 3
+      },
+      {
+        "listings": 2,
+        "unit_price": 375,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 376,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 377,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 378,
+        "quantity": 1
+      },
+      {
+        "listings": 3,
+        "unit_price": 379,
+        "quantity": 3
+      },
+      {
+        "listings": 3,
+        "unit_price": 380,
+        "quantity": 4
+      },
+      {
+        "listings": 2,
+        "unit_price": 384,
+        "quantity": 2
+      },
+      {
+        "listings": 14,
+        "unit_price": 385,
+        "quantity": 14
+      },
+      {
+        "listings": 2,
+        "unit_price": 386,
+        "quantity": 2
+      },
+      {
+        "listings": 10,
+        "unit_price": 388,
+        "quantity": 10
+      },
+      {
+        "listings": 2,
+        "unit_price": 389,
+        "quantity": 2
+      },
+      {
+        "listings": 4,
+        "unit_price": 390,
+        "quantity": 4
+      },
+      {
+        "listings": 4,
+        "unit_price": 391,
+        "quantity": 4
+      },
+      {
+        "listings": 6,
+        "unit_price": 392,
+        "quantity": 6
+      },
+      {
+        "listings": 1,
+        "unit_price": 393,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 394,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 395,
+        "quantity": 2
+      },
+      {
+        "listings": 4,
+        "unit_price": 399,
+        "quantity": 4
+      },
+      {
+        "listings": 1,
+        "unit_price": 440,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 441,
+        "quantity": 2
+      },
+      {
+        "listings": 2,
+        "unit_price": 442,
+        "quantity": 2
+      },
+      {
+        "listings": 7,
+        "unit_price": 443,
+        "quantity": 8
+      },
+      {
+        "listings": 1,
+        "unit_price": 444,
+        "quantity": 1
+      },
+      {
+        "listings": 13,
+        "unit_price": 445,
+        "quantity": 13
+      },
+      {
+        "listings": 2,
+        "unit_price": 449,
+        "quantity": 2
+      },
+      {
+        "listings": 4,
+        "unit_price": 450,
+        "quantity": 5
+      },
+      {
+        "listings": 1,
+        "unit_price": 548,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 549,
+        "quantity": 1
+      },
+      {
+        "listings": 4,
+        "unit_price": 550,
+        "quantity": 4
+      },
+      {
+        "listings": 1,
+        "unit_price": 554,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 555,
+        "quantity": 2
+      },
+      {
+        "listings": 2,
+        "unit_price": 695,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 696,
+        "quantity": 1
+      },
+      {
+        "listings": 3,
+        "unit_price": 697,
+        "quantity": 3
+      },
+      {
+        "listings": 3,
+        "unit_price": 698,
+        "quantity": 3
+      },
+      {
+        "listings": 2,
+        "unit_price": 699,
+        "quantity": 2
+      },
+      {
+        "listings": 4,
+        "unit_price": 700,
+        "quantity": 4
+      },
+      {
+        "listings": 2,
+        "unit_price": 707,
+        "quantity": 2
+      },
+      {
+        "listings": 2,
+        "unit_price": 708,
+        "quantity": 2
+      },
+      {
+        "listings": 2,
+        "unit_price": 710,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 798,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 799,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 1081,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1082,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1180,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1225,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1226,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1279,
+        "quantity": 1
+      },
+      {
+        "listings": 3,
+        "unit_price": 1460,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 1479,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1509,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1535,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1575,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1579,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1589,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2079,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2518,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 3055,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 3244,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 3298,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 4163,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 4275,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 6233,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 6477,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 7053,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 7276,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 8000,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 10000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 10190,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10198,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10218,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 30153,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 103729,
+    "item_name": "Mini Celestial Cuckoo Hatchling",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 3570103,
+    "top_sell_price": 5749999,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 3570103,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 3570003,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 3540004,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 3420002,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 3280002,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 3100216,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2111112,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2111111,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 2080007,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1080000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 750102,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 150001,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10000,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 2,
+        "quantity": 2
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 5749999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 5800000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 5839999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 5840000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 5949998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 5949999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 6249999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 7449997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 7449999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 7499999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 7599999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 8149997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 8149999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 8150000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 8445500,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 8999999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 9995500,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 49999999,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 93903,
+    "item_name": "Knight's Charged Stormcaller Mace",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 560103,
+    "top_sell_price": 880000,
+    "top_buy_quantity": 2,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 560103,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 560102,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 470000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 330000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 120010,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 110203,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 20000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 19999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10006,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10004,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 10001,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 666,
+        "quantity": 2
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 880000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 889999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 890000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 899989,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 899992,
+        "quantity": 4
+      },
+      {
+        "listings": 1,
+        "unit_price": 909995,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 919996,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 919997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 920000,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1199998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 1199999,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "item_id": 72746,
+    "item_name": "Commander's Pearl Siren",
+    "timestamp": "2025-08-08T13:37:01.076654+00:00",
+    "top_buy_price": 101011,
+    "top_sell_price": 144995,
+    "top_buy_quantity": 1,
+    "top_sell_quantity": 1,
+    "raw_buys": [
+      {
+        "listings": 1,
+        "unit_price": 101011,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 101010,
+        "quantity": 3
+      },
+      {
+        "listings": 1,
+        "unit_price": 58608,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 54294,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 15001,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 500,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 311,
+        "quantity": 5
+      }
+    ],
+    "raw_sells": [
+      {
+        "listings": 1,
+        "unit_price": 144995,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 144996,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 144997,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 144998,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 149999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 169999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 179999,
+        "quantity": 1
+      },
+      {
+        "listings": 1,
+        "unit_price": 189998,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 368702,
+        "quantity": 11
+      },
+      {
+        "listings": 1,
+        "unit_price": 400000,
+        "quantity": 1
+      },
+      {
+        "listings": 2,
+        "unit_price": 490000,
+        "quantity": 2
+      },
+      {
+        "listings": 1,
+        "unit_price": 576002,
+        "quantity": 1
+      }
+    ]
+  }
+]
