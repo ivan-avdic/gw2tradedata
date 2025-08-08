@@ -5,9 +5,9 @@ from datetime import datetime, timezone
 from math import ceil
 
 ITEM_LIST_PATH = "item_list.json"
-OUTPUT_DIR = "current_snapshot_batches"
-CHUNK_SIZE = 30
-BATCH_SIZE = 30  # Split output per this many items
+OUTPUT_DIR = "data/current_snapshot_batches"
+CHUNK_SIZE = 150
+BATCH_SIZE = 150  # Split output per this many items
 
 # Create or clean output directory
 if not os.path.exists(OUTPUT_DIR):

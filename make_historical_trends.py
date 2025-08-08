@@ -5,7 +5,7 @@ import time
 from math import ceil
 
 ITEM_LIST_PATH = "item_list.json"
-OUTPUT_DIR = "historical_trends_batches"
+OUTPUT_DIR = "OUTPUT_DIR = "current_snapshot_batches"historical_trends_batches"
 ITEMS_PER_BATCH = 100
 DELAY = 0.5
 
